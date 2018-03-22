@@ -1,36 +1,26 @@
-# MEAN stack app
+# MEAN stack SnappyChap
+This is my playground. It is not complete but does possess alot of working features.
+1) database connection
+2) Login using webtokens
 
-This repo contains the MEAN stack application that is built through  Full Stack Training's MEAN Stack course.
+Playing around with...
+* 1) Mongo(mongoose)
+* 2) Express
+* 3) Angularjs(1.6)
+* 4) Nodejs
+* 5) Bootstrap
+* 6) NPM
+* 7) Angular-ui-grid(Datatable)
 
-Don't forget to run `npm install` to install the dependencies!
-
-# MEAN stack hero: Branch section-05
-
-This repo contains the source code for section 5 of our course: [The complete JavaScript developer: MEAN stack zero-to-hero](http://www.fullstacktraining.com/courses/learn-the-mean-stack)
-
-## Section 5: Adding authentication to the MEAN stack
-
-By the end of this section of our course you will be able to:
-
-* Understand how to secure the backend (API) of your application
-* Work with JSON Web Tokens (JWT)
-* Understand how to controller authentication based access using AngularJS
-... and more!
-
-This branch contains the source code of the application as it stands at the *end* of Section 5.
-
-## Get the code
-
-To get the code for this specific branch:
-
+## get the code
 ```bash
-$ git clone -b section-05 https://github.com/fullstacktraining/mean-stack-hero.git
+$ git clone -b section-05 https://github.com/jonroman/snappychap.git
 ```
 
 Then change into the folder the git clone command will create:
 
 ```bash
-$ cd mean-stack-hero
+$ cd snanppychap
 ```
 
 And finally install the dependencies:
