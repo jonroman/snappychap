@@ -1,0 +1,25 @@
+<ul>
+  <li ng-repeat="user in vm.users"><a ng-href="#!/users/{{ user._id }}">{{ user.username }}</a></li>
+</ul>
+
+<div class="panel panel-default">
+  <div class="panel-heading">{{vm.title}}   
+
+  </div>
+  <div class="panel-body">
+    <button id='toggleFiltering' ng-click="vm.toggleFiltering()" class="btn btn-sm btn-info">Search</button> 
+  </div> 
+  <div class="panel-body">
+    <div class="gridStyle" ui-grid="vm.gridOptions" ui-grid-edit ui-grid-selection></div>
+  </div>
+</div>
+
+
+<style>
+
+  #grid1 {
+    width: 98%;
+    height: auto;
+    
+  }
+</style>
