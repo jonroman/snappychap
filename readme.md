@@ -28,3 +28,6 @@ And finally install the dependencies:
 ```bash
 npm install
 ```
+# ![View](https://github.com/jonroman/snappychap/blob/master/screenshots/snappychap.PNG "MEAN STACK SnappyChap")
+# ![Software Engineer](https://github.com/jonroman/mapap/blob/master/screenshots/headshot.PNG "Jon Roman")
+Author : Jon Roman
