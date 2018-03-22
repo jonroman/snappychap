@@ -14,7 +14,7 @@ Playing around with...
 
 ## get the code
 ```bash
-$ git clone -b section-05 https://github.com/jonroman/snappychap.git
+$ git clone https://github.com/jonroman/snappychap.git
 ```
 
 Then change into the folder the git clone command will create:
